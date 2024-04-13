@@ -1,0 +1,431 @@
+the_geom,Type,OBJECTID,Domain,Status,IDNumber,Quantity,Location,Capacity,LON,LAT,Detail_Loc,Data_Colle
+POINT (-86.65545277788499 36.049927777764),Rack,1,Public,Existing,113,1,Mall,12,-86.6554527779,36.0499277778,Hickory Hollow Mall,Health Dept
+POINT (-86.63406252260494 36.185280037810095),Rack,2,Public,Existing,114,2,Greenway,4,-86.6340625226,36.1852800378,Stones River Greenway - Donelson/Hermitage Area,Health Dept
+POINT (-86.62067056966654 36.1584215986261),Rack,3,Public,Proposed,256,0,Park/Greenway,0,-86.6206705697,36.1584215986,"Percy Priest Reservoir, Stones River Greenway",Health Dept
+POINT (-86.68652592673462 36.18754669484766),Rack,4,Public,Existing,115,1,Park/Greenway,5,-86.6865259267,36.1875466948,"Two Rivers Golf Course, Stones River Greenway - Wave Country",Health Dept
+POINT (-86.76218008308796 36.17245540617397),Rack,5,Public,Existing,103,3,Park/Community Center,15,-86.7621800831,36.1724554062,East Park & Community Center,Health Dept
+POINT (-86.7247647833593 36.16659119384666),Rack,6,Public,Existing,116,1,Park/Greenway,5,-86.7247647834,36.1665911938,Shelby Bottoms Park & Greenway,Health Dept
+POINT (-86.7239536740261 36.16690230336968),Rack,7,Public,Existing,117,8,Park/Greenway,16,-86.723953674,36.1669023034,Shelby Bottoms Park & Greenway,Health Dept
+POINT (-86.7247342306072 36.16576619362473),Rack,8,Public,Existing,118,1,Park/Greenway,5,-86.7247342306,36.1657661936,Shelby Bottoms Park & Greenway,Health Dept
+POINT (-86.76024444495323 36.1639388888614),Rack,9,Public,Proposed,257,0,Metro Office,0,-86.760244445,36.1639388889,Metro Public Works,Health Dept
+POINT (-86.77995462667019 36.16337198970625),Rack,10,Public,Future Artistic,83,0,Bus Stop,0,-86.7799546267,36.1633719897,"Bus Stop; Church St at 5th Ave N, Fifth Third Bank - Church St at HG Hills",Health Dept
+POINT (-86.77974046939214 36.16345545300331),Rack,11,Public,Existing,57,1,Bus Stop,2,-86.7797404694,36.163455453,"Bus Stop; Church St at 5th Ave N, Fifth Third Bank - Church St at HG Hills",Health Dept
+POINT (-86.78151617342864 36.16234984074692),Rack,12,Public,Existing,119,2,Library,4,-86.7815161734,36.1623498407,Downtown Nashville Public Library,Health Dept
+POINT (-86.77623489705094 36.16328427754047),Rack,13,Public,Proposed,258,0,Bus Stop,0,-86.7762348971,36.1632842775,Bus Stop; Commerce St at 2nd Ave N  -  2nd Ave N adjacent to Commerce St,Health Dept
+POINT (-86.77608755558545 36.16313945471724),Rack,14,Public,Future Artistic,259,0,Bus Stop,0,-86.7760875556,36.1631394547,Bus Stop; Commerce St at 2nd Ave N  -  2nd Ave N adjacent to Commerce St,Health Dept
+POINT (-86.7849098060745 36.15249361904691),Rack,15,Public,Proposed,260,0,Bus Stop,0,-86.7849098061,36.152493619,Bus Stop; 12th Ave S at Pine St - The Turnip Truck Market,Health Dept
+POINT (-86.78474937944691 36.15255749372542),Rack,16,Public,Proposed,261,0,Bus Stop,0,-86.7847493794,36.1525574937,Bus Stop; 12th Ave S at Pine St,Health Dept
+POINT (-86.78500547312363 36.1526297648386),Rack,17,Public,Future Artistic,85,0,Bus Stop,0,-86.7850054731,36.1526297648,Bus Stop; 12th Ave S at Pine St - The Turnip Truck Market,Health Dept
+POINT (-86.7858169170598 36.152266478245316),Rack,18,Public,Future Artistic,262,0,Parking Lot,0,-86.7858169171,36.1522664782,Parking Lot - The Turnip Truck Market,Health Dept
+POINT (-86.78429664499272 36.15779996492528),Rack,19,Public,Future Artistic,263,0,Arts Center,0,-86.784296645,36.1577999649,Frist Center For Visual Arts,Health Dept
+POINT (-86.78338732288704 36.15819984637398),Rack,20,Public,Future Artistic,264,0,Arts Center,0,-86.7833873229,36.1581998464,Frist Center For Visual Arts,Health Dept
+POINT (-86.78147500043997 36.159436110779495),Rack,21,Public,Proposed,265,0,High School,0,-86.7814750004,36.1594361108,Hume-Fogg Academic Magnet High School,Health Dept
+POINT (-86.77500913268734 36.16360793262169),Rack,22,Public,Existing,71,3,Park/Greenway,6,-86.7750091327,36.1636079326,"Riverfront Park, Metro Center & Downtown Greenways",Health Dept
+POINT (-86.77372858306325 36.16186904218354),Rack,23,Public,Existing,54,2,Park/Greenway,4,-86.7737285831,36.1618690422,"Riverfront Park, Metro Center & Downtown Greenways",Health Dept
+POINT (-86.77373741058737 36.159819197497185),Rack,24,Public,Existing,120,2,Bus Stop,4,-86.7737374106,36.1598191975,Bus Stop; Demonbreun St at 2nd Ave S,Health Dept
+POINT (-86.77390733865704 36.15980557487215),Rack,25,Public,Existing,121,2,Bus Stop,4,-86.7739073387,36.1598055749,Bus Stop; Demonbreun St at 2nd Ave S,Health Dept
+POINT (-86.79769312097875 36.162114943813854),Rack,26,Public,Proposed,266,0,Bus Stop,0,-86.797693121,36.1621149438,"Bus Stop; 16th Ave N at Jo Johnston Ave, Music City Bikeway",Health Dept
+POINT (-86.80044393712699 36.161785941855214),Rack,27,Public,Proposed,267,0,High School,0,-86.8004439371,36.1617859419,Pearl High School,Health Dept
+POINT (-86.80042600967953 36.16236591796724),Rack,28,Public,Existing,122,1,Park/Community Center,5,-86.8004260097,36.162365918,Watkins Park & Community Center,Health Dept
+POINT (-86.79654393881894 36.15975816591253),Rack,29,Public,Proposed,268,0,Park,0,-86.7965439388,36.1597581659,William Edmondson,Health Dept
+POINT (-86.84441056509507 36.15165536460006),Rack,30,Public,Existing,123,1,Library,23,-86.8444105651,36.1516553646,Richland Park Branch,Health Dept
+POINT (-86.86322445033107 36.163369244152236),Rack,31,Public,Proposed,269,0,Community Center,0,-86.8632244503,36.1633692442,West Park Community Center,Health Dept
+POINT (-86.86990499434673 36.154819240236534),Rack,32,Public,Proposed,270,0,Park,0,-86.8699049943,36.1548192402,Charlotte Park,Health Dept
+POINT (-86.84558333369094 36.15628611104986),Rack,33,Public,Proposed,271,0,Elementary School,0,-86.8455833337,36.1562861111,Cockrill Elementary School,Health Dept
+POINT (-86.8459694440241 36.1549388890409),Rack,34,Public,Proposed,272,0,School,0,-86.845969444,36.154938889,The Academy at Old Cockrill,Health Dept
+POINT (-86.7908007297784 36.18044128936739),Rack,35,Public,Proposed,273,0,Park/Community Center,0,-86.7908007298,36.1804412894,Morgan Park Community Center,Health Dept
+POINT (-86.7445999994781 36.2045888890037),Rack,36,Public,Proposed,274,0,Health Center,0,-86.7445999995,36.204588889,East Nashville Public Health Center,Health Dept
+POINT (-86.74622777766213 36.207466666663926),Rack,37,Public,Proposed,395,0,Fire Station,0,-86.7462277777,36.2074666667,Heavy Vehicle Shop,Health Dept
+POINT (-86.75636388836497 36.20867500009648),Rack,38,Public,Existing,124,1,Elementary School,9,-86.7563638884,36.2086750001,Tom Joy Elementary School,Health Dept
+POINT (-86.75634166695482 36.208544444456656),Rack,39,Public,Existing,125,1,Elementary School,9,-86.756341667,36.2085444445,Tom Joy Elementary School,Health Dept
+POINT (-86.75164999991803 36.21884444437812),Rack,40,Public,Proposed,275,0,Middle School,0,-86.7516499999,36.2188444444,Jere Baxter Middle School,Health Dept
+POINT (-86.78831388849456 36.20788333307323),Rack,41,Public,Proposed,276,0,Middle School,0,-86.7883138885,36.2078833331,Haynes Middle School,Health Dept
+POINT (-86.82403006833137 36.20988037496822),Rack,42,Public,Existing,126,1,Park/Community Center,5,-86.8240300683,36.209880375,"Richard W. Hartman Park, Hartman Community Center",Health Dept
+POINT (-86.83791111058011 36.21132222195611),Rack,43,Public,Existing,127,1,Library,9,-86.8379111106,36.211322222,Bordeaux Branch Library,Health Dept
+POINT (-86.83707777723043 36.195327777691965),Rack,44,Public,Proposed,277,0,School,0,-86.8370777772,36.1953277777,Creswell Magnet School,Health Dept
+POINT (-86.80616388909039 36.1943472223414),Rack,45,Public,Existing,128,1,College,7,-86.8061638891,36.1943472223,Watkins College of Art,Health Dept
+POINT (-86.80813006689318 36.19291371662451),Rack,46,Public,Existing,51,1,Park/Community Center,2,-86.8081300669,36.1929137166,"Buena Vista Park, Z. Alexander Looby Center",Health Dept
+POINT (-86.80699117836951 36.191805383308164),Rack,47,Public,Existing,74,2,Park,4,-86.8069911784,36.1918053833,Buena Vista,Health Dept
+POINT (-86.79588333315053 36.17417777788712),Rack,48,Public,Proposed,278,0,Library,0,-86.7958833332,36.1741777779,Carnegie-North Branch Library,Health Dept
+POINT (-86.7981527772566 36.177794444068766),Rack,49,Public,Proposed,279,0,School,0,-86.7981527773,36.1777944441,Buena Vista School,Health Dept
+POINT (-86.80265228233539 36.17832205243905),Rack,50,Public,Proposed,280,0,Park/Community Center,0,-86.8026522823,36.1783220524,Elizabeth Park & Community Center,Health Dept
+POINT (-86.80546944442419 36.17193611134588),Rack,51,Public,Proposed,281,0,School,0,-86.8054694444,36.1719361113,Lead Academy,Health Dept
+POINT (-86.8099472226038 36.175891666867884),Rack,52,Public,Proposed,282,0,School,0,-86.8099472226,36.1758916669,Robert Churchwell Magnent,Health Dept
+POINT (-86.8207333331361 36.166888889036535),Rack,53,Public,Existing,129,1,Recreation Center,23,-86.8207333331,36.166888889,Hadley Recreation Center,Health Dept
+POINT (-86.82330225724822 36.16548037507164),Rack,54,Public,Existing,130,1,Park/Community Center,5,-86.8233022572,36.1654803751,Hadley Park & Community Center,Health Dept
+POINT (-86.8312916665292 36.1596055554005),Rack,55,Public,Proposed,283,0,School,0,-86.8312916665,36.1596055554,McKissack Professional Development School,Health Dept
+POINT (-86.83110277727614 36.15729444463744),Rack,56,Public,Proposed,284,0,Community Center,0,-86.8311027773,36.1572944446,Dr. Calvin O. Atchinson Community Center,Health Dept
+POINT (-86.81581990216323 36.17410960849451),Rack,57,Public,Proposed,285,0,Park,0,-86.8158199022,36.1741096085,Gen. Clinton B. Fisk Park,Health Dept
+POINT (-86.81780277758118 36.182833333708004),Rack,58,Public,Proposed,286,0,Middle School,0,-86.8178027776,36.1828333337,John Early Middle School,Health Dept
+POINT (-86.80496617582135 36.18691093972528),Rack,59,Public,Proposed,287,0,Middle School,0,-86.8049661758,36.1869109397,John Early Middle School,Health Dept
+POINT (-86.80656062187553 36.1908026059279),Rack,60,Public,Proposed,288,0,Park,0,-86.8065606219,36.1908026059,Hull-Jackson School Neighborhood Playground,Health Dept
+POINT (-86.8075772867678 36.189858160797044),Rack,61,Public,Proposed,289,0,Elementary School,0,-86.8075772868,36.1898581608,Hull-Jackson Elementary School,Health Dept
+POINT (-86.81983283270166 36.18850259894822),Rack,62,Public,Proposed,290,0,Police Station,0,-86.8198328327,36.1885025989,North Precinct,Health Dept
+POINT (-86.85023055520715 36.154705555870464),Rack,63,Public,Existing,131,1,High School,52,-86.8502305552,36.1547055559,Bass Jr High School,Health Dept
+POINT (-86.85550833306387 36.16244166648836),Rack,64,Public,Existing,132,1,School,16,-86.8555083331,36.1624416665,McCann Alternative Learning Center,Health Dept
+POINT (-86.85514722267398 36.150927777916515),Rack,65,Public,Proposed,291,0,Police Station,0,-86.8551472227,36.1509277779,West Police Precinct,Health Dept
+POINT (-86.85586388884526 36.14317500013738),Rack,66,Public,Existing,133,3,High School,27,-86.8558638888,36.1431750001,Big Picture High School,Health Dept
+POINT (-86.85007348387569 36.13836101260418),Rack,67,Public,Existing,134,1,Greenway,2,-86.8500734839,36.1383610126,Richland Creek Greenway,Health Dept
+POINT (-86.85170068351864 36.14513304315514),Rack,68,Public,Existing,135,1,Park/Greenway,2,-86.8517006835,36.1451330432,"McCabe Golf Course, Richland Creek Greenway",Health Dept
+POINT (-86.84940624523513 36.144674705980265),Rack,69,Public,Existing,136,3,Park/Greenway,6,-86.8494062452,36.144674706,Richland Creek Greenway,Health Dept
+POINT (-86.84831111160273 36.14345000013903),Rack,70,Public,Existing,137,1,Park/Greenway,2,-86.8483111116,36.1434500001,McCabe Golf Course/Richland Creek Greenway,Health Dept
+POINT (-86.8459590365078 36.14179692342545),Rack,71,Public,Existing,138,1,Park/Greenway,2,-86.8459590365,36.1417969234,"McCabe Golf Course, Richland Creek Greenway",Health Dept
+POINT (-86.8446201493421 36.14199414351333),Rack,72,Public,Existing,139,1,Park/Greenway,2,-86.8446201493,36.1419941435,"McCabe Golf Course, Richland Creek Greenway",Health Dept
+POINT (-86.84461944498454 36.144141667012214),Rack,73,Public,Existing,142,1,School,31,-86.844619445,36.144141667,Sylvan Park Paideia Design Center,Health Dept
+POINT (-86.84530500862698 36.150855363605096),Rack,74,Public,Proposed,292,0,School,0,-86.8453050086,36.1508553636,Cohn Adult Learning Center,Health Dept
+POINT (-86.83003333363821 36.15149444417487),Rack,75,Public,Proposed,293,0,Elementary School,0,-86.8300333336,36.1514944442,Park Ave Elementary School,Health Dept
+POINT (-86.81853331106518 36.157545615444384),Rack,76,Public,Proposed,294,0,Park,0,-86.8185333111,36.1575456154,McKissack Park,Health Dept
+POINT (-86.81541944397401 36.164511111306844),Rack,77,Public,Proposed,295,0,High School,0,-86.815419444,36.1645111113,Pearl Cohn Entertainment High School,Health Dept
+POINT (-86.80400833301174 36.15871944467308),Rack,78,Public,Proposed,296,0,Middle School,0,-86.804008333,36.1587194447,Head Middle Magnet School,Health Dept
+POINT (-86.79480721180339 36.16310287869415),Rack,79,Public,Proposed,297,0,Park,0,-86.7948072118,36.1631028787,The Farm in the City Community Garden,Health Dept
+POINT (-86.7884356196915 36.17086928145833),Artistic,80,Public,Existing,61,8,Park,16,-86.7884356197,36.1708692815,"Bi-Centennial Mall, Farmers Market",Health Dept
+POINT (-86.78835228588123 36.17074705951672),Artistic,81,Public,Existing,61,5,Park,10,-86.7883522859,36.1707470595,"Bi-Centennial Mall, Farmers Market",Health Dept
+POINT (-86.78254013381262 36.174363659856844),Rack,82,Public,Proposed,298,0,State Building,0,-86.7825401338,36.1743636599,State of TN-Department of Human Services,Health Dept
+POINT (-86.7614197286541 36.17939369831654),Rack,83,Public,Proposed,299,0,Park,0,-86.7614197287,36.1793936983,Fred Douglas Park,Health Dept
+POINT (-86.7675161978404 36.1819720700894),Rack,84,Public,Existing,143,1,Park/Community Center,5,-86.7675161978,36.1819720701,McFerrin Community Center,Health Dept
+POINT (-86.76084676338458 36.18790262922103),Rack,85,Public,Proposed,300,0,Park/Community Center,0,-86.7608467634,36.1879026292,Cleveland Park & Community Center,Health Dept
+POINT (-86.76575277814727 36.18608611076087),Rack,86,Public,Existing,144,1,Middle School,16,-86.7657527781,36.1860861108,Glenn Middle School,Health Dept
+POINT (-86.7691694448366 36.19430000035074),Rack,87,Public,Existing,145,2,Middle School,28,-86.7691694448,36.1943000004,Highland Heights Middle School,Health Dept
+POINT (-86.7609051079865 36.20353874064497),Rack,88,Public,Proposed,301,0,School,0,-86.760905108,36.2035387406,Tom Joy Head Start Center,Health Dept
+POINT (-86.78177777788501 36.22037222225717),Rack,89,Public,Proposed,302,0,Middle School,0,-86.7817777779,36.2203722223,Brick Church Middle School,Health Dept
+POINT (-86.77101345823783 36.23504429093804),Rack,90,Public,Proposed,303,0,Park/Community Center,0,-86.7710134582,36.2350442909,Parkwood Park & Community Center,Health Dept
+POINT (-86.7565166667948 36.2290888886486),Rack,91,Public,Proposed,304,0,Fire Station,0,-86.7565166668,36.2290888886,Fire Station 01,Health Dept
+POINT (-86.72479681958798 36.228527647505594),Rack,92,Public,Proposed,305,0,High School,0,-86.7247968196,36.2285276475,Litton High School,Health Dept
+POINT (-86.73258055541203 36.21201666649898),Rack,93,Public,Proposed,249,0,School,0,-86.7325805554,36.2120166665,Baxter Alternative Learning Center,Health Dept
+POINT (-86.72392777781694 36.197452777519615),Rack,94,Public,Existing,146,1,Elementary School,35,-86.7239277778,36.1974527775,Inglewood Elementary School,Health Dept
+POINT (-86.72658568325379 36.1970887578201),Rack,95,Public,Existing,147,1,Park/Community Center,5,-86.7265856833,36.1970887578,South Inglewood Park & Community Center,Health Dept
+POINT (-86.75483611123576 36.17991111085259),Rack,96,Public,Existing,148,2,Elementary School,15,-86.7548361112,36.1799111109,Ross Elementary School,Health Dept
+POINT (-86.75483888907873 36.17981666629087),Rack,97,Public,Existing,149,2,Elementary School,15,-86.7548388891,36.1798166663,Ross Elementary School,Health Dept
+POINT (-86.76058611096202 36.17620277748603),Rack,98,Public,Existing,150,1,School,16,-86.760586111,36.1762027775,Meigs Magnet School,Health Dept
+POINT (-86.75348564201653 36.16826929882665),Rack,99,Public,Proposed,306,0,Park/Community Center,0,-86.753485642,36.1682692988,Kirkpatrick Park & Community Center,Health Dept
+POINT (-86.75183333312131 36.167719444699564),Rack,100,Public,Existing,151,1,Elementary School,35,-86.7518333331,36.1677194447,Kirkpatrick Elementary School,Health Dept
+POINT (-86.7463635003159 36.26753874843501),Rack,101,Public,Proposed,307,0,Park,0,-86.7463635003,36.2675387484,Cedar Hill Park,Health Dept
+POINT (-86.75024444403142 36.23240555511129),Rack,102,Public,Proposed,308,0,High School,0,-86.750244444,36.2324055551,Maplewood High School,Health Dept
+POINT (-86.75097777799202 36.180252777754525),Rack,103,Public,Existing,152,1,School,22,-86.750977778,36.1802527778,East Literature Magnet School,Health Dept
+POINT (-86.68986111134787 36.11186388870111),Rack,104,Public,Proposed,311,0,State Building,0,-86.6898611113,36.1118638887,TN State Government Building,Health Dept
+POINT (-86.74523333351803 36.232975000193164),Rack,105,Public,Existing,157,2,Middle School,56,-86.7452333335,36.2329750002,Gar-Mar Middle School,Health Dept
+POINT (-86.73944222073118 36.19221090825775),Rack,106,Public,Proposed,309,0,Park,0,-86.7394422207,36.1922109083,Eastland Park,Health Dept
+POINT (-86.74748950004619 36.20433555129268),Rack,107,Public,Proposed,310,0,Police Station,0,-86.7474895,36.2043355513,East Precinct Police Station,Health Dept
+POINT (-86.73337222235666 36.188152778164266),Rack,108,Public,Existing,153,1,Middle School,40,-86.7333722224,36.1881527782,Bailey STEM Magnet Middle School,Health Dept
+POINT (-86.73448611149274 36.18899166708734),Rack,109,Public,Existing,154,1,Elementary School,35,-86.7344861115,36.1889916671,Cora Howe Elementary School,Health Dept
+POINT (-86.71892777779975 36.20620833340536),Rack,110,Public,Existing,156,1,Middle School,40,-86.7189277778,36.2062083334,Dalewood Middle School,Health Dept
+POINT (-86.74796666632821 36.19125555573299),Rack,111,Public,Existing,155,1,Elementary School,18,-86.7479666663,36.1912555557,Cotton Elementary School,Health Dept
+POINT (-86.76031897312193 36.17222207326134),Rack,112,Public,Proposed,312,0,Elementary School,0,-86.7603189731,36.1722220733,Warner Elementary School,Health Dept
+POINT (-86.65368333310215 36.09551666627438),Rack,113,Public,Proposed,313,0,Park,0,-86.6536833331,36.0955166663,Una School Neighborhood Playground,Health Dept
+POINT (-86.68584558498299 36.0906216902638),Rack,114,Public,Existing,159,1,Park/Greenway,2,-86.685845585,36.0906216903,"Ezell Road Park, Mill Creek Greenway",Health Dept
+POINT (-86.67823563308113 36.0879054472115),Rack,115,Public,Proposed,314,0,Park,0,-86.6782356331,36.0879054472,Ezell Road Park (Soccer Field Parking Lot),Health Dept
+POINT (-86.7086999994616 36.07486944439139),Rack,116,Public,Existing,160,1,Elementary School,20,-86.7086999995,36.0748694444,Haywood Elementary School,Health Dept
+POINT (-86.7175747546386 36.06176745759252),Rack,117,Public,Proposed,315,0,Elementary School,0,-86.7175747546,36.0617674576,Tusculum Elementary School,Health Dept
+POINT (-86.68579745540593 36.09065579535225),Rack,118,Public,Existing,158,1,Park/Greenway,2,-86.6857974554,36.0906557954,"Ezell Road Park, Mill Creek Greenway",Health Dept
+POINT (-86.8131578083302 36.150205379620054),Rack,119,Public,Existing,161,1,Park,5,-86.8131578083,36.1502053796,Centennial Park/Parthenon,Health Dept
+POINT (-86.80610579382949 36.13667422101888),Rack,120,Public,Existing,162,1,Park,5,-86.8061057938,36.136674221,Fannie Mae Dees Park,Health Dept
+POINT (-86.80605410616144 36.13482724038302),Rack,121,Public,Existing,163,1,Elementary School,45,-86.8060541062,36.1348272404,Eakin Elementary School,Health Dept
+POINT (-86.82494166719758 36.13187500007929),Rack,122,Public,Existing,164,3,Middle School,54,-86.8249416672,36.1318750001,West End Middle School,Health Dept
+POINT (-86.82348278916155 36.13473592970888),Rack,123,Public,Proposed,316,0,Park,0,-86.8234827892,36.1347359297,Elmington Park,Health Dept
+POINT (-86.78548004528908 36.143066504850935),Rack,124,Public,Proposed,317,0,Elementary School,0,-86.7854800453,36.1430665049,Carter-Lawrence Elementary School,Health Dept
+POINT (-86.78360797477667 36.141987359917536),Rack,125,Public,Existing,165,1,Park/Community Center,5,-86.7836079748,36.1419873599,"Rose Park, Easley Community Center",Health Dept
+POINT (-86.7904403472618 36.13734177670022),Rack,126,Public,Proposed,318,0,School,0,-86.7904403473,36.1373417767,Murrell School,Health Dept
+POINT (-86.7811249999581 36.14265277789225),Rack,127,Public,Proposed,319,0,School,0,-86.781125,36.1426527779,Rose Park Magnet School,Health Dept
+POINT (-86.76570555555958 36.133611111003184),Rack,128,Public,Proposed,320,0,School,0,-86.7657055556,36.133611111,Fall Hamilton Enhanced Option School,Health Dept
+POINT (-86.76679037174553 36.13099183511796),Rack,129,Public,Proposed,321,0,Park,0,-86.7667903717,36.1309918351,Fairgrounds- Agricultural Building,Health Dept
+POINT (-86.76597368992702 36.14404842884336),Rack,130,Public,Proposed,322,0,Park,0,-86.7659736899,36.1440484288,Dudley Park,Health Dept
+POINT (-86.77566894111207 36.143185954547256),Rack,131,Public,Existing,166,1,Park,5,-86.7756689411,36.1431859545,Fort Negley Park,Health Dept
+POINT (-86.73908888900267 36.13236666707924),Rack,132,Public,Proposed,323,0,School,0,-86.739088889,36.1323666671,Nashville School of the Arts,Health Dept
+POINT (-86.7211111115972 36.14585277798415),Rack,133,Public,Proposed,324,0,Middle School,0,-86.7211111116,36.145852778,Margaret Allen Middle School,Health Dept
+POINT (-86.70638888837402 36.11064444457142),Rack,134,Public,Proposed,325,0,Elementary School,0,-86.7063888884,36.1106444446,Glengarry Elementary School,Health Dept
+POINT (-86.69671619204598 36.10875266009513),Rack,135,Public,Proposed,326,0,Park,0,-86.696716192,36.1087526601,Seven Oaks Park,Health Dept
+POINT (-86.73414166679714 36.099799999700366),Rack,136,Public,Proposed,327,0,Middle School,0,-86.7341416668,36.0997999997,Wright Middle School,Health Dept
+POINT (-86.72238611164278 36.10160277734043),Rack,137,Public,Existing,171,1,Elementary School,20,-86.7223861116,36.1016027773,Glencliff Elementary School,Health Dept
+POINT (-86.72709722223634 36.10117777814758),Rack,138,Public,Proposed,328,0,High School,0,-86.7270972222,36.1011777781,Glencliff High School,Health Dept
+POINT (-86.71508283497545 36.09483320602468),Rack,139,Public,Proposed,330,0,Park,0,-86.715082835,36.094833206,Paragon Mills Park,Health Dept
+POINT (-86.72369999955055 36.05694166661734),Rack,140,Public,Existing,173,1,Middle School,20,-86.7236999996,36.0569416666,McMurray Middle School,Health Dept
+POINT (-86.69827499968898 36.059083333058666),Rack,141,Public,Existing,174,1,Elementary School,20,-86.6982749997,36.0590833331,Cole Elementary School,Health Dept
+POINT (-86.6721262460898 36.05514111298902),Rack,142,Public,Proposed,331,0,Middle School,0,-86.6721262461,36.055141113,Antioch Middle School,Health Dept
+POINT (-86.66938333382244 36.06725000006927),Rack,143,Public,Existing,175,2,Elementary School,52,-86.6693833338,36.0672500001,J E Moss Elementary School,Health Dept
+POINT (-86.6642388884029 36.06707777817396),Rack,144,Public,Existing,176,2,Middle School,56,-86.6642388884,36.0670777782,Apollo Middle School,Health Dept
+POINT (-86.6303500004045 36.07864166654362),Rack,145,Public,Proposed,332,0,School,0,-86.6303500004,36.0786416665,Lakeview Design Center School,Health Dept
+POINT (-86.63159722177103 36.07884166705159),Rack,146,Public,Existing,177,1,School,28,-86.6315972218,36.0788416671,Lakeview Design Center School,Health Dept
+POINT (-86.59942777802792 36.04676388853423),Rack,147,Public,Proposed,333,0,High School,0,-86.599427778,36.0467638885,Antioch High School,Health Dept
+POINT (-86.6012111108623 36.0557416664979),Rack,148,Public,Existing,178,1,Middle School,11,-86.6012111109,36.0557416665,JF Kennedy Middle School,Health Dept
+POINT (-86.77637222166857 36.08168611074262),Rack,149,Public,Proposed,334,0,School,0,-86.7763722217,36.0816861107,Robertson Academy,Health Dept
+POINT (-86.76889999998589 36.078841667047875),Rack,150,Public,Proposed,335,0,School,0,-86.7689,36.078841667,John Overton School,Health Dept
+POINT (-86.75817222172441 36.06552777740772),Rack,151,Public,Proposed,336,1,School,0,-86.7581722217,36.0655277774,Crieve Hall School,Health Dept
+POINT (-86.67397777807335 36.031008333173816),Rack,152,Public,Proposed,337,0,Elementary School,0,-86.6739777781,36.0310083332,Henry C. Maxwell Elementary School,Health Dept
+POINT (-86.95522790802288 36.076858833432134),Rack,153,Public,Proposed,338,0,Park/Greenway,0,-86.955227908,36.0768588334,Harpeth River Park & Greenway,Health Dept
+POINT (-86.95575765488947 36.07957197418037),Rack,154,Public,Existing,179,1,Bus Stop,3,-86.9557576549,36.0795719742,Coley Davis- Shelter- Park N Ride,Health Dept
+POINT (-86.93480833364512 36.07126666685933),Rack,155,Public,Existing,180,1,Middle School,26,-86.9348083336,36.0712666669,Bellevue Middle School,Health Dept
+POINT (-86.93406044178151 36.072346984821905),Rack,156,Public,Existing,181,1,Park/Recreation Center,16,-86.9340604418,36.0723469848,"Bellevue Park, Bellevue Recreation Center",Health Dept
+POINT (-86.91120908357529 36.059583125155946),Rack,157,Public,Proposed,339,0,Park/Greenway,0,-86.9112090836,36.0595831252,"Edwin Warner Park, Harpeth River Greenway (Natchez Trace Trailhead)",Health Dept
+POINT (-86.89316760410667 36.05227818720866),Rack,158,Public,Proposed,340,0,Park,0,-86.8931676041,36.0522781872,Percy Warner Park Equestrian Center Maintenance Shop,Health Dept
+POINT (-86.74502222221308 36.04462222232883),Rack,159,Public,Existing,182,2,Library,18,-86.7450222222,36.0446222223,Edmonson Pike Libary,Health Dept
+POINT (-86.70665781420867 36.059330432392905),Rack,160,Public,Proposed,341,0,Park,0,-86.7066578142,36.0593304324,William A. Pitts Park,Health Dept
+POINT (-86.64125833301763 36.06053888903719),Rack,161,Public,Existing,183,1,Library,3,-86.641258333,36.060538889,Southeast Branch Library,Health Dept
+POINT (-86.62032777727262 36.02949166689883),Rack,162,Public,Proposed,342,0,High School,0,-86.6203277773,36.0294916669,Cane Ridge High School,Health Dept
+POINT (-86.63629115173177 36.000677688997364),Rack,163,Public,Proposed,343,0,Park/Community Center,0,-86.6362911517,36.000677689,"Cecil Rhea Crawford Park, Cane Ridge Community Center",Health Dept
+POINT (-86.6594000002246 36.02209444474813),Rack,164,Public,Existing,184,1,Middle School,28,-86.6594000002,36.0220944447,Thurgood Marshall Middle School,Health Dept
+POINT (-86.66050277767285 36.02231944465743),Rack,165,Public,Existing,185,3,Middle School,45,-86.6605027777,36.0223194447,Thurgood Marshall Middle School,Health Dept
+POINT (-86.76464575187997 36.14844302623797),Rack,166,Public,Proposed,346,0,Middle School,0,-86.7646457519,36.1484430262,Cameron Middle School,Health Dept
+POINT (-86.75548840476881 36.14998874259276),Rack,167,Public,Proposed,347,0,Elementary School,0,-86.7554884048,36.1499887426,Napier Elementary School,Health Dept
+POINT (-86.75672440282756 36.150762073519616),Rack,168,Public,Proposed,348,0,Park/Community Center,0,-86.7567244028,36.1507620735,Napier Park & Community Center,Health Dept
+POINT (-86.76193888926004 36.15161944453896),Rack,169,Public,Proposed,349,0,Library,0,-86.7619388893,36.1516194445,Pruitt Branch Library,Health Dept
+POINT (-86.74331033283987 36.111093004592504),Rack,170,Public,Existing,168,1,Library,8,-86.7433103328,36.1110930046,Thompson Lane Branch,Health Dept
+POINT (-86.73414997471349 36.08761106582506),Rack,171,Public,Proposed,329,0,Middle School,0,-86.7341499747,36.0876110658,Croft Middle School,Health Dept
+POINT (-162.86529964791245 -90),Rack,172,Public,Existing,186,1,School,18,,,<Null>,Health Dept
+POINT (-162.86529964791245 -90),Rack,173,Public,Existing,187,2,<Null>,4,,,<Null>,Health Dept
+POINT (-86.82489389748349 36.13241092962029),Rack,174,Public,Existing,188,1,Middle School,56,-86.8248938975,36.1324109296,West End Middle School,Health Dept
+POINT (-86.80758333375975 36.13489444429573),Rack,175,Public,Existing,189,1,High School,36,-86.8075833338,36.1348944443,Cavert Jr High School,Health Dept
+POINT (-86.80604999962242 36.136800000276125),Rack,176,Public,Existing,0,1,Park,5,-86.8060499996,36.1368000003,Fannie Mae Dees Park,Health Dept
+POINT (-86.80736666695144 36.137524999687116),Rack,177,Public,Proposed,351,0,School,0,-86.807366667,36.1375249997,Harris Hillman Special School,Health Dept
+POINT (-86.81260833349623 36.106311111359865),Rack,178,Public,Existing,190,2,High School,20,-86.8126083335,36.1063111114,Hillsboro High School,Health Dept
+POINT (-86.86612330117786 36.1163501162688),Rack,179,Public,Existing,191,2,Middle School,52,-86.8661233012,36.1163501163,HG Hill Middle School,Health Dept
+POINT (-86.87316743624311 36.11809726335633),Rack,180,Public,Proposed,352,0,High School,0,-86.8731674362,36.1180972634,Hillwood Comprehensive High School,Health Dept
+POINT (-86.90397500052418 36.127663889179246),Rack,181,Public,Existing,192,1,Elementary School,52,-86.9039750005,36.1276638892,Brookemeade Elementary School,Health Dept
+POINT (-86.89436894767529 36.26225811904693),Rack,182,Public,Proposed,353,0,Park,0,-86.8943689477,36.262258119,Beaman Park,Health Dept
+POINT (-162.86529964791245 -90),Rack,183,Public,Existing,193,1,Elementary School,42,,,Charlotte Park Elementary School,Health Dept
+POINT (-162.86529964791245 -90),Rack,184,Public,Proposed,354,0,School,0,,,<Null>,Health Dept
+POINT (-86.88741885668587 36.135735897794135),Rack,185,Public,Proposed,355,0,Park,0,-86.8874188567,36.1357358978,H.G. Hill Park,Health Dept
+POINT (-86.75235833338378 36.27917777779129),Rack,186,Public,Proposed,356,0,High School,0,-86.7523583334,36.2791777778,Hunter's Lane High School,Health Dept
+POINT (-86.6459888890319 36.2562027778814),Rack,187,Public,Proposed,357,0,Park,0,-86.645988889,36.2562027779,Rachel's Walk,Health Dept
+POINT (-86.64617500014982 36.260216666425016),Rack,188,Public,Existing,194,1,Library,26,-86.6461750001,36.2602166664,Old Hickory Library,Health Dept
+POINT (-86.71510000054485 36.2576583337313),Rack,189,Public,Existing,195,1,Library,9,-86.7151000005,36.2576583337,Madison Area Library,Health Dept
+POINT (-86.72496388834081 36.22588611156097),Rack,190,Public,Existing,196,1,Library,24,-86.7249638883,36.2258861116,Inglewood Library,Health Dept
+POINT (-86.72534444454251 36.22577500004248),Rack,191,Public,Existing,197,1,Bus Stop,2,-86.7253444445,36.225775,Bus Stop; Inglewood Station Outbound,Health Dept
+POINT (-86.71696388859047 36.217777777424345),Rack,192,Public,Existing,198,1,Elementary School,2,-86.7169638886,36.2177777774,Mills Elementary School,Health Dept
+POINT (-86.72575277733932 36.22408888924153),Rack,193,Public,Existing,199,1,Fire Station,2,-86.7257527773,36.2240888892,Fire Station 29/ Bus Stop,Health Dept
+POINT (-86.73354722193999 36.21045833324548),Rack,194,Public,Existing,200,1,Bus Stop,2,-86.7335472219,36.2104583332,Bus Stop; Gallatin Pk at Home Rd,Health Dept
+POINT (-86.73359444489515 36.209922222620946),Rack,195,Public,Existing,201,1,Bus Stop,2,-86.7335944449,36.2099222226,Greenfield Station Inbound,Health Dept
+POINT (-86.68159444479669 36.20385833288851),Rack,196,Public,Existing,202,2,Elementary School,46,-86.6815944448,36.2038583329,Pennington Elementary School,Health Dept
+POINT (-86.6738652189709 36.19458567155309),Rack,197,Public,Existing,203,1,Middle School,46,-86.673865219,36.1945856716,Two Rivers Middle School,Health Dept
+POINT (-86.6779527780119 36.18533611105309),Rack,198,Public,Proposed,358,0,High School,0,-86.677952778,36.1853361111,McGavock High School,Health Dept
+POINT (-86.68203888941484 36.17579166699914),Rack,199,Public,Proposed,359,0,School,0,-86.6820388894,36.175791667,Stanford School,Health Dept
+POINT (-86.65600000004788 36.16669444444358),Rack,200,Public,Existing,204,1,Middle School,33,-86.656,36.1666944444,Donelson Middle School - Donelson/Hermitage Area,Health Dept
+POINT (-86.65730593815432 36.16621198495006),Rack,201,Public,Proposed,360,0,Elementary School,0,-86.6573059382,36.166211985,Hickman Elementary School - Donelson/Hermitage Area,Health Dept
+POINT (-86.6540527778484 36.167349999814654),Rack,202,Public,Proposed,361,0,Elementary School,0,-86.6540527778,36.1673499998,Hickman Elementary School - Donelson/Hermitage Area,Health Dept
+POINT (-86.6472097628737 36.173113396508896),Rack,203,Public,Existing,205,3,Greenway,6,-86.6472097629,36.1731133965,Stones River Greenway - Donelson/Hermitage Area,Health Dept
+POINT (-86.63539722250842 36.19827777744749),Rack,204,Public,Existing,206,1,Elementary School,8,-86.6353972225,36.1982777774,Hermitage Elementary School - Donelson/Hermitage Area,Health Dept
+POINT (-86.6232194446564 36.231686110896106),Rack,205,Public,Proposed,362,0,Elementary School,0,-86.6232194447,36.2316861109,Andrew Jackson Elementary School,Health Dept
+POINT (-86.61181111160627 36.199013888699),Rack,206,Public,Existing,207,1,High School,42,-86.6118111116,36.1990138887,Dupont High School - Donelson/Hermitage Area,Health Dept
+POINT (-86.6115583336784 36.19864722232801),Rack,207,Public,Existing,208,1,Elementary School,42,-86.6115583337,36.1986472223,Tulip Grove Elementary School - Donelson/Hermitage Area,Health Dept
+POINT (-86.61583852336311 36.177077701634964),Rack,208,Public,Existing,210,1,Park/Community Center,4,-86.6158385234,36.1770777016,Hermitage Park & Community Center - Donelson/Hermitage Area,Health Dept
+POINT (-86.61631352388052 36.17788881258368),Rack,209,Public,Proposed,363,0,Police Station,0,-86.6163135239,36.1778888126,Hermitage Precinct - Donelson/Hermitage Area,Health Dept
+POINT (-86.57906111072904 36.15639444463742),Rack,210,Public,Existing,211,1,Elementary School,16,-86.5790611107,36.1563944446,Ruby Major Elementary School,Health Dept
+POINT (-86.77099296162197 36.16283308176085),Rack,211,Public,Existing,212,10,Greenway,20,-86.7709929616,36.1628330818,"Metro Center, Downtown Greenways/Cumberland Park",Health Dept
+POINT (-86.75796944421441 36.17558611151123),Rack,212,Public,Existing,213,1,Bus Stop,2,-86.7579694442,36.1755861115,Bus Stop; Main St at N 8th St,Health Dept
+POINT (-86.75777777729576 36.17583333315597),Rack,213,Public,Existing,214,1,Bus Stop,2,-86.7577777773,36.1758333332,Bus Stop; Main St at Neill Ave,Health Dept
+POINT (-86.75013611090364 36.179372222217026),Rack,214,Public,Existing,215,1,Bus Stop,2,-86.7501361109,36.1793722222,Bus Stop; Gallatin Pk at N 11th St,Health Dept
+POINT (-86.75018333293642 36.17981111079418),Rack,215,Public,Existing,216,1,Bus Stop,2,-86.7501833329,36.1798111108,Five Points Outbound Bus Stop,Health Dept
+POINT (-86.74809166696483 36.18406666697888),Rack,216,Public,Existing,217,1,Bus Stop,2,-86.748091667,36.184066667,Eastland Station Outbound,Health Dept
+POINT (-86.74855277747601 36.183641666500435),Rack,217,Public,Existing,218,1,Bus Stop,2,-86.7485527775,36.1836416665,Bus Stop; Gallatin Ave at W Eastland Ave,Health Dept
+POINT (-86.74403333371569 36.19313333344985),Rack,218,Public,Existing,219,1,Bus Stop,2,-86.7440333337,36.1931333335,Bus Stop; Gallatin Ave at Staightway Ave,Health Dept
+POINT (-86.74437499992499 36.192927778022735),Rack,219,Public,Existing,220,1,Bus Stop,2,-86.7443749999,36.192927778,Bus Stop; Gallatin Station Inbound,Health Dept
+POINT (-86.73861111063025 36.20319444425357),Rack,220,Public,Existing,221,1,Bus Stop,2,-86.7386111106,36.2031944443,East Hill Station Outbound,Health Dept
+POINT (-86.73850555594942 36.2037694444618),Rack,221,Public,Existing,222,1,Bus Stop,2,-86.7385055559,36.2037694445,Bus Stop; E Trinity Ln at Gallatin Pk,Health Dept
+POINT (-86.72379444478432 36.23878333341613),Rack,222,Public,Existing,223,1,Bus Stop,2,-86.7237944448,36.2387833334,Bus Stop; S Gallatin Pk at Briley Pkwy,Health Dept
+POINT (-86.71977777780464 36.24859444432915),Rack,223,Public,Existing,224,1,Bus Stop,2,-86.7197777778,36.2485944443,Bus Stop; Due West Station Outbound,Health Dept
+POINT (-86.71411944406786 36.256394444363416),Rack,224,Public,Existing,225,1,Bus Stop,2,-86.7141194441,36.2563944444,Madison Station Outbound Bus Stop,Health Dept
+POINT (-86.70851944401095 36.27971666673476),Rack,225,Public,Existing,226,1,Bus Stop,2,-86.708519444,36.2797166667,Bus Stop; Gallatin Pk at Elmore Ave,Health Dept
+POINT (-86.70027777826066 36.29535000010228),Rack,226,Public,Existing,227,1,Bus Stop,2,-86.7002777783,36.2953500001,Bus Stop; Gallatin Pk at Alta Roma Rd,Health Dept
+POINT (-86.69447777815634 36.3008444447007),Rack,227,Public,Existing,228,1,Bus Stop,2,-86.6944777782,36.3008444447,Bus Stop; Rivergate Station Outbound,Health Dept
+POINT (-86.69565833320766 36.30053611149288),Rack,228,Public,Existing,229,1,Bus Stop,2,-86.6956583332,36.3005361115,Bus Stop; Rivergate Station Inbound,Health Dept
+POINT (-86.7004666666047 36.29575277748276),Rack,229,Public,Existing,230,1,Bus Stop,2,-86.7004666666,36.2957527775,Bus Stop; N Gallatin Pk at Rivergate,Health Dept
+POINT (-86.70866944428155 36.27994444409274),Rack,230,Public,Existing,231,1,Bus Stop,2,-86.7086694443,36.2799444441,Bus Stop; Edgemeade Station Inbound,Health Dept
+POINT (-86.71406944466914 36.25740833321768),Rack,231,Public,Existing,232,1,Bus Stop,2,-86.7140694447,36.2574083332,Gallatin Pk at Harrington Ave Bus Stop,Health Dept
+POINT (-86.7199333328487 36.248863888830826),Rack,232,Public,Existing,233,1,Bus Stop,2,-86.7199333328,36.2488638888,Bus Stop; Due West Plaza Station Inbound,Health Dept
+POINT (-86.72419999971328 36.23821944432955),Rack,233,Public,Existing,234,1,Bus Stop,2,-86.7241999997,36.2382194443,Bus Stop; Walton Station Inbound,Health Dept
+POINT (-86.83936111114015 36.20195555531749),Rack,234,Public,Proposed,364,0,School,0,-86.8393611111,36.2019555553,Institute of Learning Resea,Health Dept
+POINT (-86.67351666658998 36.24180555524747),Rack,235,Public,Existing,235,1,Middle School,18,-86.6735166666,36.2418055552,Neely's Bend Middle School,Health Dept
+POINT (-86.67411388871602 36.23980277772599),Rack,236,Public,Existing,236,1,Elementary School,25,-86.6741138887,36.2398027777,Neely's Bend Elementary School,Health Dept
+POINT (-86.66035651988383 36.19471054665942),Rack,237,Public,Proposed,365,0,Park/Greenway,0,-86.6603565199,36.1947105467,"Peeler Park, Peeler Greenway/ Cumberland River Greenway junction",Health Dept
+POINT (-86.60608888914129 36.18981111119469),Rack,238,Public,Proposed,366,0,Train Station,0,-86.6060888891,36.1898111112,Music City Star Train Station - Donelson/Hermitage Area,Health Dept
+POINT (-86.60233333383567 36.19157499964996),Rack,239,Public,Existing,237,1,Elementary School,32,-86.6023333338,36.1915749997,Dodson Elementary School - Donelson/Hermitage Area,Health Dept
+POINT (-86.61318333384021 36.18158611140171),Rack,240,Public,Existing,238,1,Elementary School,36,-86.6131833338,36.1815861114,Dodson Elementary School - Donelson/Hermitage Area,Health Dept
+POINT (-86.68117500004898 36.16076666635325),Rack,241,Public,Proposed,367,0,Elementary School,0,-86.681175,36.1607666664,McGavock Elementary School,Health Dept
+POINT (-86.72622777726367 36.126755555459944),Rack,242,Public,Proposed,368,0,School,0,-86.7262277773,36.1267555555,New Vision Academy,Health Dept
+POINT (-86.7719666665967 36.16794166646886),Rack,243,Public,Existing,239,1,Stadium,7,-86.7719666666,36.1679416665,L.P. Field,Health Dept
+POINT (-86.7734207271359 36.16568864167045),Rack,244,Public,Existing,48,12,Greenway,24,-86.7734207271,36.1656886417,"Metro Center, Downtown Greenways",Health Dept
+POINT (-86.80337222191719 36.23805555557327),Rack,245,Public,Proposed,369,0,Middle School,0,-86.8033722219,36.2380555556,Ewing Park Middle School,Health Dept
+POINT (-86.83181111102058 36.253769444741366),Rack,246,Public,Proposed,370,0,Elementary School,0,-86.831811111,36.2537694447,Alex Green Elementary School,Health Dept
+POINT (-86.78166111161954 36.234722222344686),Rack,247,Public,Existing,240,1,Middle School,52,-86.7816611116,36.2347222223,Smithson Craighead Middle School,Health Dept
+POINT (-86.77930277761651 36.24239722229991),Rack,248,Public,Proposed,371,0,Elementary School,0,-86.7793027776,36.2423972223,Smithson Craighead Elementary School,Health Dept
+POINT (-86.84443873329644 36.21360524275861),Rack,249,Public,Proposed,372,0,Park,0,-86.8444387333,36.2136052428,Bordeaux Park,Health Dept
+POINT (-86.86691388848226 36.21207500038186),Rack,250,Public,Proposed,373,0,Elementary School,0,-86.8669138885,36.2120750004,Cumberland Elementary School,Health Dept
+POINT (-86.82699999949776 36.22045000042442),Rack,251,Public,Proposed,374,0,School,0,-86.8269999995,36.2204500004,Robert E. Lillard Design Center School,Health Dept
+POINT (-86.7681472226195 36.153877778068825),Artistic,252,Public,Existing,241,2,Metro Office,4,-86.7681472226,36.1538777781,Howard Office Building,Health Dept
+POINT (-86.76735277829225 36.15561111069788),Rack,253,Public,Proposed,375,0,Fire Station,0,-86.7673527783,36.1556111107,Nashville Fire Department Headquarters,Health Dept
+POINT (-86.78108837628906 36.13735261800421),Rack,254,Public,Proposed,376,0,Park,0,-86.7810883763,36.137352618,Reservoir Park,Health Dept
+POINT (-86.78271059877225 36.138133172558156),Rack,255,Public,Proposed,377,0,Park,0,-86.7827105988,36.1381331726,Reservoir Park,Health Dept
+POINT (-86.8939194439969 36.09179999992641),Rack,256,Public,Proposed,378,0,Elementary School,0,-86.893919444,36.0917999999,Westmeade Elementary School,Health Dept
+POINT (-86.8612806847473 36.10307628030894),Rack,257,Public,Proposed,379,0,Park,0,-86.8612806847,36.1030762803,Parmer Park,Health Dept
+POINT (-86.80421934755488 36.09439563762396),Rack,258,Public,Proposed,380,0,Park,0,-86.8042193476,36.0943956376,Green Hills Park,Health Dept
+POINT (-86.8084861105725 36.11015277804664),Rack,259,Public,Proposed,381,0,Library,0,-86.8084861106,36.110152778,Green Hills Library,Health Dept
+POINT (-86.74388459809798 36.11165574938138),Rack,260,Public,Existing,169,1,Park/Community Center,5,-86.7438845981,36.1116557494,Community Center,Health Dept
+POINT (-86.73585420246522 36.11503665709879),Rack,261,Public,Existing,170,1,Elementary School,16,-86.7358542025,36.1150366571,John B. Whitsitt Elementary School,Health Dept
+POINT (-86.74254980605376 36.08925840427754),Rack,262,Public,Existing,172,1,Park,3,-86.7425498061,36.0892584043,"Grassmere Park, Nashville Zoo",Health Dept
+POINT (-86.86330888758073 36.14917368034229),Rack,263,Public,Proposed,350,0,School,0,-86.8633088876,36.1491736803,Richland Head Start Center,Health Dept
+POINT (-86.74199398928985 36.17530541577556),Rack,264,Public,Proposed,382,0,Fire Station,0,-86.7419939893,36.1753054158,Fire Station 14,Health Dept
+POINT (-86.73966111138722 36.17623611107951),Rack,265,Public,Existing,242,2,Elementary School,52,-86.7396611114,36.1762361111,Lockeland Elementary School,Health Dept
+POINT (-86.7175555554809 36.18429444434843),Rack,266,Public,Existing,243,1,Elementary School,16,-86.7175555555,36.1842944443,Rosebank Elementary School,Health Dept
+POINT (-86.75021388877853 36.178852777844966),Rack,267,Public,Existing,244,1,Library,7,-86.7502138888,36.1788527778,East Library,Health Dept
+POINT (-86.80946892217018 36.15044149264309),Rack,268,Public,Existing,246,1,Park/Recreation Center,5,-86.8094689222,36.1504414926,"Centennial Park, Centennial Tennis Center",Health Dept
+POINT (-86.88112437021475 36.074572011602044),Rack,269,Public,Proposed,385,0,Park,0,-86.8811243702,36.0745720116,Percy Warner Park,Health Dept
+POINT (-86.8788910387403 36.0753664568311),Rack,270,Public,Proposed,386,0,Park,0,-86.8788910387,36.0753664568,Percy Warner Park,Health Dept
+POINT (-86.7445089191374 36.122251727958094),Rack,271,Public,Proposed,387,0,Health Center,0,-86.7445089191,36.122251728,Woodbine Public Health Center,Health Dept
+POINT (-86.73914166671099 36.13330277798971),Rack,272,Public,Proposed,388,0,School,0,-86.7391416667,36.133302778,Nashville School of the Arts,Health Dept
+POINT (-86.74045000052476 36.13124722204523),Rack,273,Public,Proposed,389,0,School,0,-86.7404500005,36.131247222,Nashville School of the Arts,Health Dept
+POINT (-86.78009026386826 36.159891359666794),Rack,274,Public,Proposed,383,0,Convention Center,0,-86.7800902639,36.1598913597,Nashville Convention Center,Health Dept
+POINT (-86.76936666645908 36.17848055523814),Rack,275,Public,Proposed,392,0,Elementary School,0,-86.7693666665,36.1784805552,Caldwell Elementary School,Health Dept
+POINT (-86.77140277781147 36.200027777551774),Rack,276,Public,Existing,247,1,Elementary School,20,-86.7714027778,36.2000277776,Shwab Elementary School,Health Dept
+POINT (-86.78699953098048 36.19929428262886),Rack,277,Public,Proposed,393,0,Park/Greenway,0,-86.786999531,36.1992942826,"Lock One Park, Metro Center Greenway",Health Dept
+POINT (-86.83979340569152 36.17939430452043),Rack,278,Public,Proposed,391,0,Park,0,-86.8397934057,36.1793943045,Bordeaux Gardens Park,Health Dept
+POINT (-86.83289722265094 36.191738888708876),Rack,279,Public,Proposed,390,0,Elementary School,0,-86.8328972227,36.1917388887,Bordeaux Elementary School,Health Dept
+POINT (-86.82423398629892 36.18469133775453),Rack,280,Public,Proposed,394,0,Park/Greenway,0,-86.8242339863,36.1846913378,"Ted Rhodes Golf Course Clubhouse, TSU to Taylor Park Greenway",Health Dept
+POINT (-86.82470896814843 36.19237467287863),Rack,281,Public,Existing,248,5,Park/Greenway,10,-86.8247089681,36.1923746729,"Metro Center Levee Greenway Park, Metro Center & Downtown Greenways",Health Dept
+POINT (-86.7770502737379 36.15865636454745),Rack,282,Public,Existing,245,1,Bus Stop,8,-86.7770502737,36.1586563645,Bus Stop; Demonbreun St at 5th Ave S,Health Dept
+POINT (-86.77714628441569 36.15871847473599),Rack,283,Public,Proposed,384,0,Bus Stop,0,-86.7771462844,36.1587184747,Bus Stop; Demonbreun St at 5th Ave S,Health Dept
+POINT (-86.78172986615162 36.15933788271353),Rack,284,Public,Proposed,344,0,High School,0,-86.7817298662,36.1593378827,Hume-Fogg Academic Magnet High School,Health Dept
+POINT (-86.78200230321671 36.159232386861184),Rack,285,Public,Proposed,345,0,High School,0,-86.7820023032,36.1592323869,Hume-Fogg Academic Magnet High School,Health Dept
+POINT (-86.78307500015254 36.156777777614636),Rack,286,Public,Existing,7,1,Arts Center,5,-86.7830750002,36.1567777776,Frist Center For Visual Arts,Civic
+POINT (-86.7845711736662 36.152009892025255),Rack,287,Public,Existing,8,1,Bus Stop,6,-86.7845711737,36.152009892,"Bus Stop; 12th Ave S at 11th Ave S, near Nearside",Civic
+POINT (-86.78433055509211 36.15202499962448),Rack,288,Public,Existing,9,1,Bus Stop,2,-86.7843305551,36.1520249996,"Bus Stop; 12th Ave S at 11th Ave S, near Nearside",Civic
+POINT (-86.78381902781909 36.15275762387087),Rack,289,Public,Existing,10,2,The Gulch,4,-86.7838190278,36.1527576239,The Gulch; 11th Ave S at Pine St,Civic
+POINT (-86.77566666695688 36.15926111128872),Rack,290,Public,Existing,11,1,Downtown Building,20,-86.775666667,36.1592611113,Schermerhorn Symphony Center,Civic
+POINT (-86.77716944467475 36.15874444440679),Rack,291,Public,Existing,12,1,Park,5,-86.7771694447,36.1587444444,Nashville Music Garden,Civic
+POINT (-86.77851111110199 36.1599027779761),Rack,292,Public,Existing,14,1,Arena,7,-86.7785111111,36.159902778,Bridgestone Arena,Civic
+POINT (-86.75041111152511 36.17726666707027),Rack,293,Public,Existing,100,1,Bus Stop,2,-86.7504111115,36.1772666671,Eastside Cycles,Civic
+POINT (-86.7513527783314 36.17801666709335),Rack,294,Public,Existing,101,1,Bus Stop,2,-86.7513527783,36.1780166671,Marche Artisan Foods,Civic
+POINT (-86.7500666667354 36.179169444062055),Rack,295,Public,Existing,102,1,Library,2,-86.7500666667,36.1791694441,East Library,Civic
+POINT (-86.77920000055579 36.166894444743285),Rack,296,Public,Existing,25,1,Metro Office,10,-86.7792000006,36.1668944447,Nashville City Hall/Courthouse,Civic
+POINT (-86.77809166654261 36.16609166635625),Rack,297,Public,Existing,24,1,Metro Office,10,-86.7780916665,36.1660916664,Nashville City Hall/Courthouse,Civic
+POINT (-86.78436666718417 36.16893611103408),Rack,298,Public,Existing,47,1,Downtown Building,4,-86.7843666672,36.168936111,Davey Crockett Building,Civic
+POINT (-86.77309046559371 36.15798568815314),Rack,299,Public,Existing,5,1,Bus Stop,6,-86.7730904656,36.1579856882,Bus Stop; Korean Veterans Blvd between 1st Ave S and 4th Ave S,Civic
+POINT (-86.77401111112619 36.15759444432811),Rack,300,Public,Existing,4,1,Bus Stop,6,-86.7740111111,36.1575944443,Bus Stop; Korean Veterans Blvd between 1st Ave S and 4th Ave S,Civic
+POINT (-86.77383463933751 36.15728684404582),Rack,301,Public,Existing,3,1,Bus Stop,6,-86.7738346393,36.157286844,Bus Stop; Korean Veterans Blvd between 1st Ave S and 4th Ave S,Civic
+POINT (-86.77293032381182 36.157663475139216),Rack,302,Public,Existing,2,1,Bus Stop,4,-86.7729303238,36.1576634751,Bus Stop; Korean Veterans Blvd between 1st Ave S and 4th Ave S,Civic
+POINT (-86.77215876124131 36.15799605577127),Rack,303,Public,Existing,1,1,Bus Stop,4,-86.7721587612,36.1579960558,Bus Stop; Korean Veterans Blvd between 1st Ave S and 4th Ave S,Civic
+POINT (-86.77233498778368 36.15830477305276),Rack,304,Public,Existing,6,1,Bus Stop,4,-86.7723349878,36.1583047731,Bus Stop; Korean Veterans Blvd between 1st Ave S and 4th Ave S,Civic
+POINT (-86.77787777816792 36.16743333312306),Rack,305,Public,Existing,26,1,Metro Office,10,-86.7778777782,36.1674333331,Nashville City Hall/Courthouse,Civic
+POINT (-86.77872777823649 36.16787500001908),Rack,306,Public,Existing,27,1,Bus Stop,6,-86.7787277782,36.167875,"Bus Stop; James Robertson Pkwy at 2nd Ave N, Birch Building",Civic
+POINT (-86.77660833377752 36.15976111124889),Rack,307,Public,Existing,13,1,Park,5,-86.7766083338,36.1597611112,Nashville Music Garden,Civic
+POINT (-86.78189926476567 36.16602032152372),Rack,308,Public,Existing,29,1,Bus Stop,2,-86.7818992648,36.1660203215,Downtown Bus Station; Music City Central,Civic
+POINT (-86.7817488362812 36.165999676317234),Rack,309,Public,Existing,30,1,Bus Stop,2,-86.7817488363,36.1659996763,Downtown Bus Station; Music City Central,Civic
+POINT (-86.78136668040275 36.16615722600143),Rack,310,Public,Existing,31,1,Bus Stop,2,-86.7813666804,36.166157226,Downtown Bus Station; Music City Central,Civic
+POINT (-86.78109121816655 36.16628727668595),Rack,311,Public,Existing,32,1,Bus Stop,2,-86.7810912182,36.1662872767,Downtown Bus Station; Music City Central,Civic
+POINT (-86.78088036314824 36.166388699036034),Rack,312,Public,Existing,33,1,Bus Stop,2,-86.7808803631,36.166388699,Downtown Bus Station; Music City Central,Civic
+POINT (-86.78223333297068 36.16671666638077),Rack,313,Public,Existing,34,1,Bus Stop,2,-86.782233333,36.1667166664,Downtown Bus Station; Music City Central,Civic
+POINT (-86.78127376109383 36.16708277801292),Rack,314,Public,Existing,35,1,Bus Stop,2,-86.7812737611,36.167082778,Downtown Bus Station; Music City Central,Civic
+POINT (-86.77997381892165 36.1614680326247),Rack,315,Public,Existing,15,1,Convention Center,2,-86.7799738189,36.1614680326,Nashville Convention Center,Civic
+POINT (-86.78018034962831 36.161376445419286),Rack,316,Public,Existing,16,1,Convention Center,2,-86.7801803496,36.1613764454,Nashville Convention Center,Civic
+POINT (-86.78498611118064 36.16156944420674),Rack,317,Public,Existing,17,1,Community Center,5,-86.7849861112,36.1615694442,YMCA,Civic
+POINT (-86.78227641103341 36.16213286287455),Rack,318,Public,Existing,18,1,Library,4,-86.782276411,36.1621328629,Downtown Nashville Public Library,Civic
+POINT (-86.78169779186915 36.16239211115822),Rack,319,Public,Existing,19,1,Library,4,-86.7816977919,36.1623921112,Downtown Nashville Public Library,Civic
+POINT (-86.78235870755448 36.163079930801516),Rack,320,Public,Existing,21,1,Bus Stop,2,-86.7823587076,36.1630799308,Bus Stop; Church St at 6th Ave N,Civic
+POINT (-86.77782399861584 36.164280456015405),Rack,321,Public,Existing,22,1,Bus Stop,2,-86.7778239986,36.164280456,Bus Stop; Church St at 3rd Ave N,Civic
+POINT (-86.77702777785818 36.16459166656395),Rack,322,Public,Existing,23,1,Bus Stop,2,-86.7770277779,36.1645916666,Bus Stop; Church St at 2nd Ave N,Civic
+POINT (-86.78219743034582 36.162817217771746),Rack,323,Public,Existing,20,1,Bus Stop,2,-86.7821974303,36.1628172178,Bus Stop; Church St at 6th Ave N,Civic
+POINT (-86.77949183348616 36.16627292283732),Rack,324,Public,Existing,45,1,Bus Stop,2,-86.7794918335,36.1662729228,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.77935652332756 36.1660882317233),Rack,325,Public,Existing,46,1,Bus Stop,4,-86.7793565233,36.1660882317,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.77998808119172 36.165829000928284),Rack,326,Public,Existing,44,1,Bus Stop,2,-86.7799880812,36.1658290009,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.78011294976092 36.16601119833912),Rack,327,Public,Existing,43,1,Bus Stop,2,-86.7801129498,36.1660111983,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.78250416146321 36.164734121501446),Rack,328,Public,Existing,36,1,Bus Stop,2,-86.7825041615,36.1647341215,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.78189188177721 36.165012570278755),Rack,329,Public,Existing,38,1,Bus Stop,4,-86.7818918818,36.1650125703,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.78191296909455 36.16521732729716),Rack,330,Public,Existing,37,1,Bus Stop,2,-86.7819129691,36.1652173273,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.78129370815665 36.16527159507024),Rack,331,Public,Existing,40,1,Bus Stop,2,-86.7812937082,36.1652715951,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.78134343789378 36.16548003319235),Rack,332,Public,Existing,39,1,Bus Stop,2,-86.7813434379,36.1654800332,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.7806146767848 36.165550469363104),Rack,333,Public,Existing,42,1,Bus Stop,2,-86.7806146768,36.1655504694,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.78058960015686 36.16579757383041),Rack,334,Public,Existing,41,1,Bus Stop,2,-86.7805896002,36.1657975738,Bus Stop; Deadrick St- 3rd Ave N to 6th Ave N,Civic
+POINT (-86.77770181076744 36.166861475808105),Covered,335,Public,Existing,107,1,Metro Office,8,-86.7777018108,36.1668614758,Nashville City Hall/Courthouse,Civic
+POINT (-86.78139852446269 36.161358683778026),Covered,336,Public,Existing,108,1,Library,8,-86.7813985245,36.1613586838,Downtown Public Library Parking Garage,Civic
+POINT (-86.76675761216879 36.15353625005647),Covered,337,Public,Proposed,250,0,Metro Office,0,-86.7667576122,36.1535362501,Howard School Building Parking Garage,Civic
+POINT (-86.78114728932925 36.161437124499365),Locker,338,Public,Proposed,251,0,Library,0,-86.7811472893,36.1614371245,Downtown Nashville Public Library,Civic
+POINT (-86.7666425718305 36.15361595030599),Locker,339,Public,Proposed,252,0,Metro Office,0,-86.7666425718,36.1536159503,Howard School Building Parking Garage,Civic
+POINT (-86.77782543710406 36.16700099944415),Locker,340,Public,Proposed,253,0,Park,0,-86.7778254371,36.1670009994,Public Square Park,Civic
+POINT (-86.78411478562873 36.169059259341466),Locker,341,Private,Existing,109,1,Metro Office,2,-86.7841147856,36.1690592593,Davey Crockett Tower,Civic
+POINT (-86.78228551139206 36.16550680723529),Locker,342,Private,Existing,110,1,State Office,2,-86.7822855114,36.1655068072,Andrew Jackson State Office Building,Civic
+POINT (-86.7822146275673 36.16539411411952),Rack,343,Public,Existing,28,1,State Building,4,-86.7822146276,36.1653941141,Andrew Jackson State Office Building,Civic
+POINT (-86.78039837989424 36.166189861034766),Locker,344,Private,Proposed,254,0,Parking Garage,0,-86.7803983799,36.166189861,Public Square Garage,Civic
+POINT (-86.7794157675713 36.1666164928073),Locker,345,Private,Proposed,255,0,Parking Garage,0,-86.7794157676,36.1666164928,Public Square Garage,Civic
+POINT (-86.7795228371071 36.16331011417069),Covered,346,Private,Existing,111,1,Residential Complex,2,-86.7795228371,36.1633101142,Viridian tower,Civic
+POINT (-86.82461483275608 36.192519329100335),Rack,347,Public,Existing,49,1,Greenway,10,-86.8246148328,36.1925193291,"Metro Center, Downtown Greenways",Civic
+POINT (-86.8248527777138 36.19254999967103),Rack,348,Public,Existing,50,1,Greenway,10,-86.8248527777,36.1925499997,"Metro Center, Downtown Greenways",Civic
+POINT (-86.78898886848451 36.17051243221893),Artistic,349,Public,Existing,60,4,Park,8,-86.7889888685,36.1705124322,"Bi-Centennial Mall, Farmers Market",Civic
+POINT (-86.79123818390491 36.152401843750035),Artistic,350,Public,Existing,62,1,Music Square,2,-86.7912381839,36.1524018438,Music Square,Civic
+POINT (-86.79094797220324 36.15254701622076),Rack,351,Public,Proposed,397,0,Metro Office,0,-86.7909479722,36.1525470162,Howard Office Building,Civic
+POINT (-86.78882489624444 36.153532368707815),Rack,352,Public,Proposed,104,0,Bus Stop,0,-86.7888248962,36.1535323687,Enterprise Rental Car,Civic
+POINT (-86.78870164858242 36.15358658188918),Rack,353,Public,Proposed,105,0,Bus Stop,0,-86.7887016486,36.1535865819,Enterprise Rental Car,Civic
+POINT (-86.78194863579618 36.16253507149673),Artistic,354,Public,Existing,64,2,Park,4,-86.7819486358,36.1625350715,Church Street Park,Civic
+POINT (-86.77897952713295 36.16188063055458),Artistic,355,Public,Existing,63,1,Bus Stop,10,-86.7789795271,36.1618806306,Bus Stop; 401 Commerce St at 5th Ave N,Civic
+POINT (-86.77832758760236 36.16213608817841),Rack,356,Public,Proposed,61,0,Park,0,-86.7783275876,36.1621360882,"Bi-Centennial Mall, Farmers Market",Civic
+POINT (-86.7741142536118 36.16012809751099),Rack,357,Public,Existing,52,1,Downtown Building,8,-86.7741142536,36.1601280975,The Pinnacle Building,Civic
+POINT (-86.78485052166631 36.16337527338089),Covered,358,Public,Existing,112,1,Metro Office,6,-86.7848505217,36.1633752734,William R Snodgrass Tennessee Tower,Civic
+POINT (-86.77394312175566 36.162071683325664),Bike Share,359,Public,Existing,106,1,Park,2,-86.7739431218,36.1620716833,Riverfront Park,Civic
+POINT (-86.72490492665659 36.166182391093756),Bike Share,360,Public,Existing,2,1,Park/Greenway,1,-86.7249049267,36.1661823911,Shelby Park Visitor Center,Civic
+POINT (-86.77439911129768 36.159753694057066),Rack,361,Public,Existing,53,1,Bus Stop,2,-86.7743991113,36.1597536941,Pinnacle Building,Civic
+POINT (-86.78498851881201 36.19247003149559),Rack,362,Public,Existing,55,1,Greenway,2,-86.7849885188,36.1924700315,Downtown Greenway,Civic
+POINT (-86.7909611371166 36.152588416421715),Rack,363,Public,Existing,66,4,Bus Stop,8,-86.7909611371,36.1525884164,Music City Circle,Civic
+POINT (-86.78399894531731 36.157822906101714),Rack,364,Public,Future Artistic,67,0,Arts Center,0,-86.7839989453,36.1578229061,Frist Center For Visual Arts,Civic
+POINT (-86.78356099654522 36.158004051556595),Rack,365,Public,Future Artistic,68,0,Arts Center,0,-86.7835609965,36.1580040516,Frist Center For Visual Arts,Civic
+POINT (-86.78290617936045 36.157746793079546),Rack,366,Public,Proposed,69,0,US Goverment,0,-86.7829061794,36.1577467931,Estes Kefauver Federal Building US Courthouse,Civic
+POINT (-86.77895165675962 36.160104920202386),Rack,367,Public,Proposed,70,0,Police Station,0,-86.7789516568,36.1601049202,Nashville Police Department,Civic
+POINT (-86.77835573395353 36.169949069759454),Rack,368,Public,Proposed,72,0,Greenway,0,-86.778355734,36.1699490698,Downtown Greenway,Civic
+POINT (-86.80707833295183 36.20126597560125),Rack,369,Public,Proposed,73,0,Greenway,0,-86.807078333,36.2012659756,Downtown Greenway,Civic
+POINT (-86.80176713160444 36.181205281296),Rack,370,Public,Proposed,75,0,Elementary School,0,-86.8017671316,36.1812052813,Jones Padeia School,Civic
+POINT (-86.80173068471599 36.181147377233984),Rack,371,Public,Proposed,76,0,Elementary School,0,-86.8017306847,36.1811473772,Jones Padeia School,Civic
+POINT (-86.80352265005511 36.17902792625322),Rack,372,Public,Proposed,77,0,Park,0,-86.8035226501,36.1790279263,Elizabeth Park,Civic
+POINT (-86.78637857526675 36.17010630143635),Rack,373,Public,Proposed,79,0,Greenway,0,-86.7863785753,36.1701063014,Downtown Greenway,Civic
+POINT (-86.7842345485593 36.15079898704852),Rack,374,Public,Existing,56,1,Bus Stop,2,-86.7842345486,36.150798987,Bus Stop; 12th Ave S at Division St,Civic
+POINT (-86.78386782009518 36.15093900500534),Rack,375,Public,Existing,58,1,Bus Stop,2,-86.7838678201,36.150939005,Bus Stop; 12th Ave S at Division St,Civic
+POINT (-86.77428720027652 36.1609749314355),Rack,376,Public,Proposed,80,0,Greenway,0,-86.7742872003,36.1609749314,Downtown Greenway,Civic
+POINT (-86.77595644287669 36.16323968521675),Rack,377,Public,Future Artistic,82,0,Bus Stop,0,-86.7759564429,36.1632396852,Commerce St and 2nd Ave N  -  2nd Ave N adjacent to Commerce St,Civic
+POINT (-86.77936035335871 36.163602339326026),Rack,378,Public,Proposed,84,0,Bus Stop,0,-86.7793603534,36.1636023393,Church St ad 4th Ave N,Civic
+POINT (-86.79876213095957 36.17318742560908),Rack,379,Public,Existing,396,2,Park,4,-86.798762131,36.1731874256,Monroe Street Playgound,Health Dept
+POINT (-86.76887023772227 36.15811247114185),Rack,380,Public,Future Artistic,398,0,MDHA/Trolley,0,-86.7688702377,36.1581124711,MDHA/Trolley Barns,Civic
+POINT (-86.81422902104273 36.15574198049334),Rack,381,Public,Future Artistic,399,0,Health Center,0,-86.814229021,36.1557419805,Health Department - New Main Location,Civic
+POINT (-86.73625881414266 36.0937282616504),Rack,382,Public,Future Artistic,400,0,Health Center,0,-86.7362588141,36.0937282617,Health Department - South WIC Nutritional Center,Civic
+POINT (-86.7891725324828 36.11922414881165),Rack,383,Public,Proposed,401,0,Park,0,-86.7891725325,36.1192241488,Sevier Park,Civic
+POINT (-86.67282466828755 36.055874981256416),Rack,384,Public,Future Artistic,402,0,Park,0,-86.6728246683,36.0558749813,Mill Creek Greenway,Civic
+POINT (-86.60547954196532 36.190339171994985),Rack,385,Public,Future Artistic,404,0,Train Station,0,-86.605479542,36.190339172,Hermitage Train Station,Civic
+POINT (-86.60631230148165 36.18963241491726),Rack,386,Public,Future Artistic,405,0,Train Station,0,-86.6063123015,36.1896324149,Hermitage Train Station,Civic
+POINT (-86.83714225218492 36.19521286358855),Rack,387,Public,Future Artistic,408,0,School,0,-86.8371422522,36.1952128636,Creswell Middle School,Civic
+POINT (-86.74443054748988 36.12224464812982),Rack,388,Public,Future Artistic,409,0,Health Center,0,-86.7444305475,36.1222446481,Woodbine Public Health Center,Civic
+POINT (-86.8194932309777 36.188141879931386),Rack,389,Public,Future Artistic,410,0,Police Precinct,0,-86.819493231,36.1881418799,North Precinct,Civic
+POINT (-86.73902836844366 36.132447276438185),Rack,390,Public,Future Artistic,411,0,School,0,-86.7390283684,36.1324472764,Nashville School of the Arts,Civic
+POINT (-86.74455590539077 36.20466878692141),Rack,391,Public,Future Artistic,412,0,Health Center,0,-86.7445559054,36.2046687869,East Nashville Public Health Center,Civic
+POINT (-86.79954878733523 36.161814736233374),Rack,392,Public,Future Artistic,413,0,Park,0,-86.7995487873,36.1618147362,Watkins Park,Civic
+POINT (-86.79949475359949 36.161991613573505),Rack,393,Public,Future Artistic,414,0,Park,0,-86.7994947536,36.1619916136,Watkins Park,Civic
+POINT (-86.75871967988238 36.17401627381623),Rack,394,Public,Future Artistic,415,0,Park,0,-86.7587196799,36.1740162738,East Park - Woodland St @ S 8th St,Civic
+POINT (-86.76031268053083 36.17228797740811),Rack,395,Public,Future Artistic,416,0,Park,0,-86.7603126805,36.1722879774,East Park - Warner Public School Entrance,Civic
+POINT (-86.7602654582043 36.17220968356596),Rack,396,Public,Future Artistic,417,0,Park,0,-86.7602654582,36.1722096836,East Park - Warner Public School Entrance,Civic
+POINT (-86.90606456364878 36.060863090806485),Rack,397,Public,Future Artistic,418,0,Park,0,-86.9060645636,36.0608630908,Warner Park - Susanne Warner Bass Learning Center,Civic
+POINT (-86.81388402511033 36.14788460421611),Rack,398,Public,Future Artistic,419,0,Park,0,-86.8138840251,36.1478846042,Centennial Park Play area and cafe,Civic
+POINT (-86.898338177397 36.04991055602428),Rack,399,Public,Future Artistic,420,0,Park,0,-86.8983381774,36.049910556,Edwin Warner Park @ Baseball and Soccer Fields,Civic
+POINT (-86.7902199712191 36.11848490077517),Rack,400,Public,Future Artistic,421,0,Park,0,-86.7902199712,36.1184849008,Sevier Park - Play area and Pavillion #2,Civic
+POINT (-86.78933562922751 36.11833497323795),Rack,401,Public,Future Artistic,422,0,Park,0,-86.7893356292,36.1183349732,Sevier Park - Play Area,Civic
+POINT (-86.79059292641408 36.180664523257526),Rack,402,Public,Future Artistic,423,0,Park,0,-86.7905929264,36.1806645233,Morgan Park,Civic
+POINT (-86.79056186808947 36.18068566847592),Rack,403,Public,Future Artistic,424,0,Park,0,-86.7905618681,36.1806856685,Morgan Park,Civic
+POINT (-86.80913165845345 36.15088305387525),Rack,404,Public,Future Artistic,425,0,Park,0,-86.8091316585,36.1508830539,Centennial Sports Plex,Civic
+POINT (-86.82279995768138 36.16527734060468),Rack,405,Public,Future Artistic,426,0,Park,0,-86.8227999577,36.1652773406,Hadley Park Play Area,Civic
+POINT (-86.82326041619719 36.16556160644016),Rack,406,Public,Future Artistic,427,0,Park,0,-86.8232604162,36.1655616064,Hadley Park Play Area,Civic
+POINT (-86.82067241321433 36.16519194788456),Rack,407,Public,Future Artistic,428,0,Park,0,-86.8206724132,36.1651919479,Hadley Park Baseball Fields,Civic
+POINT (-86.8079558581933 36.19279535867044),Rack,408,Public,Future Artistic,429,0,Library,0,-86.8079558582,36.1927953587,Looby Library,Civic
+POINT (-86.6562342931122 36.05083147724163),Rack,409,Public,Future Artistic,430,0,Mall,0,-86.6562342931,36.0508314772,Hickory Hollow Mall,Civic
+POINT (-86.68753041941945 36.18726517766825),Rack,410,Public,Future Artistic,431,0,Park,0,-86.6875304194,36.1872651777,Wave Country,Civic
+POINT (-86.7743876729956 36.160865975813664),Rack,411,Public,Future Artistic,432,0,Park,0,-86.774387673,36.1608659758,Under Shelby St Bridge,Civic
+POINT (-86.76985037407442 36.16203267447199),Rack,412,Public,Future Artistic,433,0,Park,0,-86.7698503741,36.1620326745,Cumberland Park,Civic
+POINT (-86.77440564172606 36.162751702778415),Rack,413,Public,Future Artistic,435,0,Park,0,-86.7744056417,36.1627517028,Riverfront Park,Civic
+POINT (-86.77590535406705 36.16492969562664),Rack,414,Public,Existing,81,2,Park/Greenway,4,-86.7759053541,36.1649296956,"Riverfront Park, Metro Center & Downtown Greenways",Health Dept
+POINT (-86.84197406306915 36.14172044195937),Rack,415,Public,Existing,141,1,Park/Greenway/Community Center,5,-86.8419740631,36.141720442,"McCabe Park & Community Center, Richland Creek Greenway",Health Dept
+POINT (-86.84194250950982 36.141437084507366),Rack,416,Public,Existing,140,1,Park/Greenway/Community Center,5,-86.8419425095,36.1414370845,"McCabe Park & Community Center, Richland Creek Greenway",Health Dept
+POINT (-86.76856212029429 36.15317725341441),Artistic,417,Public,Existing,59,1,Metro Office,2,-86.7685621203,36.1531772534,Howard Office Building,Health Dept
+POINT (-86.76860137574442 36.15323408449562),Artistic,418,Public,Existing,59,1,Metro Office,2,-86.7686013757,36.1532340845,Howard Office Building,Health Dept
+POINT (-86.61466032012999 36.177544815019),Rack,419,Public,Existing,209,1,Park/Library,18,-86.6146603201,36.177544815,Hermitage Park/Library - Donelson/Hermitage Area,Health Dept
+POINT (-86.61465244904608 36.176900134054584),Artistic,420,Public,Existing,403,3,Park,6,-86.614652449,36.1769001341,Hermitage Park Play Area,Civic
+POINT (-86.68970500006621 36.27229699994643),Rack,421,Public,Future Artistic,436,0,Metro Office,0,-86.6897050001,36.2722969999,Madison Police Precinct,Civic
+POINT (-86.66597528989737 36.16672901656575),Artistic,422,Public,Existing,407,1,Train Station,2,-86.6659752899,36.1667290166,Donelson Train Station,Civic
+POINT (-86.66692228740924 36.16733150863019),Rack,423,Public,Future Artistic,406,0,Train Station,0,-86.6669222874,36.1673315086,Donelson Train Station,Civic
+POINT (-86.80599282562264 36.13719207209869),Bike Rack,424,Public,Existing,437,1,Park,8,-86.8059928256,36.1371920721,Fannie Mae Dees Park,Civic
+POINT (-86.74381617464994 36.11172218194633),Bike Rack,425,Public,Existing,438,1,Park,8,-86.7438161746,36.1117221819,Coleman Park Community Center,Civic
+POINT (-86.79135100063249 36.15239299972696),Bike Rack,426,Public,Existing,439,1,Resturant/ Music Row,8,-86.7913510006,36.1523929997,NE Corner of Demonbruen St and Music Row,Civic
+POINT (-86.79099197520954 36.180616460127915),Bike Rack,427,Public,Existing,440,1,Park,4,-86.7909919752,36.1806164601,Morgan Park,Civic
+POINT (-86.7891631202589 36.12661189693866),Bike Rack,428,Public,Existing,441,1,Resturant/ 12th South,10,-86.7891631203,36.1266118969,2318 12th Ave S,Civic
+POINT (-86.76936299977169 36.164313999524836),Artistic,429,Public,Existing,65,1,Greenway,8,-86.7693629998,36.1643139995,East end of Shelby St Pedestrian Bridge,Health Dept
+POINT (-86.70611702185867 36.12744111291461),Rack,430,Public,Existing,167,1,School,20,-86.7061170219,36.1274411129,Glenview School,Health Dept
