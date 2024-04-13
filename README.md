@@ -13,10 +13,12 @@ This project explores the spatial distribution of bike racks in Nashville, Tenne
 
 ### Maps:
 ![Map for Zip Code 37203](./images/map37203.png)
-*Interactive map showcasing bike rack locations in Nashville's 37203 zip code area.*
+*Interactive map showcasing bike rack locations downtown, in Nashville's 37203 zip code.*
 
 ![Cluster Map](./images/cluster_map.png)
-*Interactive cluster map displaying bike rack locations across Greater Nashville.*
+*Interactive cluster map displaying bike rack locations across the Greater Nashville area.*
 
 ### Links:
-* [Jupyter Notebook](link_to_notebook.ipynb): Explore the detailed code and analysis steps.
+* [Jupyter Notebook](https://github.com/jessicabohannon/Mapping-Nashville-s-Bike-Racks/blob/main/notebooks/Nashville_Bike_Racks.ipynb): Explore the detailed code and analysis steps.
+
+Data from data.nashville.gov
