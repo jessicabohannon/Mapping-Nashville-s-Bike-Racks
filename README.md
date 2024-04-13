@@ -1,41 +1,22 @@
-### 1. Getting Started With the Geospatial Environment
-To run the notebooks for this project, you will need some additional python packages. 
-You can install these using conda. 
-We have provided an `environment.yaml` file with the packages to be used for the project.
-This `environment.yaml` file will create a new environment for you called `geospatial`.
+![ ](cover_bike.png)
 
-Open your terminal, and `cd` into this project. 
-From there run: 
-```bash
-conda env create -f environment.yaml
-```
+## Nashville Bike Rack Mapping
 
-Once this has been created for you, it is easiest to run from the command line.
-For example, to open a new session with jupyter run: 
-```
-conda activate geospatial
-jupyter notebook
-```
-To close the notebook, type ctrl-c
-To stop using the geospatial environment:
-```
-conda deactivate
-```
+### Description:
+This project explores the spatial distribution of bike racks in Nashville, Tennessee, using Geopandas and Folium for geospatial analysis and visualization. By mapping bike rack locations across different zip code areas, the project aims to provide insights into cycling infrastructure accessibility and promote sustainable transportation options in the city.
 
+### Skills Used:
+* **Geospatial Analysis:** Utilized Geopandas to work with geographical data and conduct spatial operations.
+* **Data Visualization:** Created interactive maps using Folium to visualize bike rack locations and distribution.
+* **Data Wrangling:** Processed and prepared bike rack data for analysis and visualization.
+* **Python Programming:** Leveraged Python programming skills to manipulate data and create visualizations.
 
-### 2. Introduction slide deck and notebooks  
-##### slides 
- - importance of location to some kinds of analysis
- - `geopandas` GeoDataFrames
- - types of geometry
- - intro to coordinate reference systems
- - spatial joins
- - adding context with `folium` maps
-    - constructing maps
-    - markers
-    - marker clusters
-    - popups
-##### notebooks
-- geospatial_intro.ipynb (geopandas and foilum)
-- qualitative_maps.ipynb (geopandas and matplotlib styling elements)
-- choropleth_tutorial.ipynb (geopandas choropleth)
+### Maps:
+![Map for Zip Code 37203](./images/map37203.png)
+*Interactive map showcasing bike rack locations in Nashville's 37203 zip code area.*
+
+![Cluster Map](./images/cluster_map.png)
+*Interactive cluster map displaying bike rack locations across Greater Nashville.*
+
+### Links:
+* [Jupyter Notebook](link_to_notebook.ipynb): Explore the detailed code and analysis steps.
