@@ -12,10 +12,10 @@ This project explores the spatial distribution of bike racks in Nashville, Tenne
 * **Python Programming:** Leveraged Python programming skills to manipulate data and create visualizations.
 
 ### Maps:
-![Map for Zip Code 37203]([./images/map37203.png](https://billbrithescienceguy.com/wp-content/uploads/2024/05/map37203.html))
+[Map for Zip Code 37203](https://billbrithescienceguy.com/wp-content/uploads/2024/05/map37203.html)
 *Interactive map showcasing bike rack locations downtown, in Nashville's 37203 zip code.*
 
-![Cluster Map]([./images/cluster_map.png](https://billbrithescienceguy.com/wp-content/uploads/2024/05/cluster_map.html))
+[Cluster Map](https://billbrithescienceguy.com/wp-content/uploads/2024/05/cluster_map.html)
 *Interactive cluster map displaying bike rack locations across the Greater Nashville area.*
 
 ### Links:
